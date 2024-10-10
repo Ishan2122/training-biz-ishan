@@ -25,3 +25,183 @@ ls
 pwd
 ./push_history1.sh
 exit
+#1728541708
+sudo yum install git
+#1728542438
+git@github.com:Ishan2122/training-biz-ishan.git 
+#1728542533
+git clone <https://github.com/Ishan2122/commit-history-task-bizz-training-period.git>
+#1728542814
+git clonegit@github.com:Ishan2122/training-biz-ishan.git
+#1728542838
+git clone git@github.com:Ishan2122/training-biz-ishan.git
+#1728543071
+ssh-keygen -t rsa -b 4096 -C ishansingh212@gmail.com
+#1728543274
+cat /home/ec2-user/.ssh/id_rsa.pub
+#1728543395
+git clone git@github.com:Ishan2122/training-biz-ishan.git
+#1728543544
+push_history.sh
+#1728543598
+#!/bin/bash
+#1728543598
+export HISTTIMEFORMAT="%F %T "
+#1728543598
+source ~/.bashrc
+#1728543598
+# Change directory to the repo
+#1728543598
+cd /home/ec2-user/commit-history-task-bizz-training-period
+#1728543598
+# Capture the history from .bash_history to avoid session issues
+#1728543598
+cat ~/.bash_history  > /home/ec2-user/commit-history-task-bizz-training-period/history.txt
+#1728543598
+#!/bin/bash
+
+export HISTTIMEFORMAT="%F %T "
+source ~/.bashrc
+
+# Change directory to the repo
+cd /home/ec2-user/commit-history 
+
+# Capture the history from .bash_history to avoid session issues
+cat ~/.bash_history  > /home/ec2-user/commit-history-task-bizz-training-period/history.txt
+
+# Ensure only the necessary file is added
+/usr/bin/git add .
+
+# Commit with the current time as the message
+/usr/bin/git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
+
+# Push to GitHub
+/usr/bin/git push origin main
+#1728543598
+/usr/bin/git add .
+#1728543598
+# Commit with the current time as the message
+#1728543598
+#!/bin/bash
+
+export HISTTIMEFORMAT="%F %T "
+source ~/.bashrc
+
+# Change directory to the repo
+cd /home/ec2-user/commit-history-task-bizz-training-period
+
+# Capture the history from .bash_history to avoid session issues
+cat ~/.bash_history  > /home/ec2-user/commit-history-task-bizz-training-period/history.txt
+
+# Ensure only the necessary file is added
+/usr/bin/git add .
+
+# Commit with the current time as the message
+/usr/bin/git commit -m "$(date '+%Y-%m-%d %H:%M:%S')"
+
+# Push to GitHub
+/usr/bin/git push origin main
+#1728543598
+# Push to GitHub
+#1728543598
+/usr/bin/git push origin main
+#1728543929
+#!/bin/bash
+#1728543929
+export HISTTIMEFORMAT="%F %T "
+#1728543929
+source ~/.bashrc
+#1728543998
+cd /home/ec2-user/commit-history-Ishan2122/training-biz-ishan.git
+#1728544019
+cd /home/ec2-user/Ishan2122/training-biz-ishan.git
+#1728544057
+cd Ishan2122/training-biz-ishan.git
+#1728544118
+git@github.com:Ishan2122/training-biz-ishan.git
+#1728544730
+ls
+#1728544738
+cd training-biz-ishan/
+#1728544903
+touch push_history.ssh
+#1728544966
+vi push_history.ssh 
+#1728545335
+cd training-biz-ishan/
+#1728546034
+ls
+#1728546069
+cd training-biz-ishan/
+#1728546380
+vi push_history.ssh 
+#1728547270
+chmod +x ~/training-biz-ishan/push_history.sh
+#1728547382
+chmod +x ~/commit-history-task-bizz-training-period/push_history.sh
+#1728547766
+chmod +x push_history.ssh 
+#1728547790
+crontab -e
+#1728548194
+cd ~
+#1728548635
+ls
+#1728548646
+cs training-biz-ishan/
+#1728548654
+cd training-biz-ishan/
+#1728548656
+ls
+#1728548663
+vi push_history.ssh 
+#1728548700
+cd ..
+#1728548704
+crontab -e
+#1728548979
+ls
+#1728548986
+pwd
+#1728548996
+cd training-biz-ishan/
+#1728548997
+ls
+#1728549000
+pwd
+#1728549015
+vi push_history.ssh 
+#1728549027
+crontab -e
+#1728549076
+./push_history.ssh 
+#1728549090
+ls
+#1728549153
+./push_history.ssh 
+#1728549160
+ls
+#1728549163
+pwd
+#1728549165
+./push_history.ssh 
+#1728549196
+vi push_history.ssh 
+#1728549282
+rm -rf push_history.ssh 
+#1728549295
+vi push_history.sh
+#1728549333
+ls
+#1728549357
+./push_history.sh
+#1728549365
+ls
+#1728549374
+vi push_history.sh 
+#1728549385
+ls
+#1728549421
+  ./push_history.sh
+#1728549429
+ls
