@@ -1,0 +1,6 @@
+mkdir scriptshells
+vi file1.txt
+cd scriptshells
+vi file1.txt
+vi script.sh
+chmod u+x script.sh
