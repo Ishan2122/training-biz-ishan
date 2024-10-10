@@ -4,3 +4,24 @@ cd scriptshells
 vi file1.txt
 vi script.sh
 chmod u+x script.sh
+ls
+cd training-biz-ishan/
+ls
+./push_history.sh
+touch push_history1.sh
+vi push_history
+ls
+rm -rf push_history
+ls
+vi push_history1.sh 
+./ push_history1.sh 
+ls -l
+./push_history1.sh
+chmod +x push_history1.sh
+./push_history1.sh
+vi push_history1.sh 
+./push_history1.sh
+ls
+pwd
+./push_history1.sh
+exit
