@@ -205,3 +205,21 @@ ls
   ./push_history.sh
 #1728549429
 ls
+ls -a
+vi .bashrc
+cd
+ls
+cd training-biz-ishan/
+./push_history1.sh 
+ls
+rm -rf push_history.sh
+ls
+vi push_history1.sh 
+crontab -e
+history
+reverse search
+pipe
+pscp
+scp
+scp [options] source_file destination
+vi
