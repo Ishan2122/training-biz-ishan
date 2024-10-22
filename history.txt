@@ -224,3 +224,4 @@ scp
 scp [options] source_file destination
 vi
 exit
+vi /home/ec2-user/payments.csv
