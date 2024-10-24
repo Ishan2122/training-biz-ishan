@@ -238,3 +238,14 @@ ls
 then
 echo "Enter 2 files as argument"
 exit 1;
+vi script.sh
+ls
+cat script.sh
+ls
+vi file1.txt
+cat
+cat file1.txt
+<./script.sh file1.txt file2.txt>
+ ./script.sh file1.txt file2.txt
+chmod +x script.sh
+ ./script.sh file1.txt file2.txt
