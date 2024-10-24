@@ -225,3 +225,16 @@ scp [options] source_file destination
 vi
 exit
 vi /home/ec2-user/payments.csv
+ls
+touch script.sh
+ls
+vi script.sh
+cat script.sh
+ls
+create file1.txt
+touch file1.txt
+ls
+[200~if [ "$#" -ne 2 ];catif [ "$#" -ne 2 ];
+then
+echo "Enter 2 files as argument"
+exit 1;
